@@ -1,0 +1,2 @@
+# laba-lt
+Lineer regresyon
