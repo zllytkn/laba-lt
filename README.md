@@ -1,4 +1,4 @@
-# California Housing Price Prediction
+# Kaliforniya Konut Fiyatları
 
 Bu proje, Kaliforniya'daki konut fiyatlarını tahmin etmek amacıyla basit bir lineer regresyon modelinin uygulanmasını içermektedir. Aşağıda proje adımları ve kullanılan yöntemler hakkında detaylı açıklamalar verilmiştir.
 
