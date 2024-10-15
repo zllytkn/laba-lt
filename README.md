@@ -48,8 +48,8 @@ Veri setindeki uç değerler (outliers) IQR (Interquartile Range) yöntemi kulla
 ## Modelin Performansı
 
 - **Ortalama Mutlak Hata (MAE)**:
-  - Test Seti: 55,380.80 USD (%26.71)
-  - Eğitim Seti: 55,982.18 USD (%27.05)
+  - Test Seti: 55,380.80 USD (%28.98)
+  - Eğitim Seti: 55,982.18 USD (%29.30)
 
 - **Yorum**: MAE değerlerinin %10'dan yüksek olması, modelin tahminlerinin gerçekçi olmadığını ve yüksek bir hata payına sahip olduğunu göstermektedir. Bu, modelin daha fazla iyileştirilmesi gerektiğini ve mevcut durumda gerçek dünyadaki kullanımlar için güvenilir olmadığını işaret eder. İyileştirme adına, daha karmaşık modellerin kullanılması, özellik mühendisliği yapılması veya veri setine ek açıklayıcı özelliklerin dahil edilmesi önerilebilir.
 
